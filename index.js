@@ -17,6 +17,7 @@ app.get('/api/tmdt/label', (req, res) => {
 	request(demoTargetLink).pipe(res);
 });
 
+// https://s1.viettelpost.vn/report.do
 app.get('/s1', (req, res) => {
 	res.sendFile(path.resolve(__dirname, './label.html'));
 })
