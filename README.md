@@ -4,3 +4,5 @@
 ```
 npm start
 ```
+
+goto `http://localhost/api/tmdt?tracking_id=123`
