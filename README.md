@@ -5,4 +5,4 @@
 npm start
 ```
 
-goto `http://localhost/api/tmdt?tracking_id=123`
+goto `http://localhost/api/tmdt/label?tracking_id=123`
